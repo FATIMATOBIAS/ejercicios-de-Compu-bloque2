@@ -1,0 +1,67 @@
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0oPr0PomTQFylHsqGPAMVVKq6Kc1O8mViQ&s);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRzvZuz2fQpoXUDN48B2o3oxK8fye5h4d3sQ&s);
+    background-size: 40px;
+    background-repeat: no-repeat;
+}
+
+.padding-left-title{
+    padding-left: 70px;
+}
+
+.c:first-child{
+    color: black;
+    font-size: 20px;
+}
+
+.p ::first-letter{
+    color: antiquewhite;
+    font-size: 20px;
+}
+
+.j:focus{
+    color: azure;
+    font-size: 20px;
+}
+
+h1::after{
+    content: Bienvenido a apple;
+    color: rgb(216, 189, 153);
+    font-size: 50px;
+}
+
+.a:hover{
+color: blanchedalmond;
+font-size: 70px;
+}
+
+.spacing{
+    padding-left: 70px;
+}
+
+.container{
+    color: rgb(115, 109, 151);
+    font-size: 20px;
+    font-family: cursive;
+}
+
+p::before{
+    color: aquamarine;
+}
+
+.o ::before{
+    color: rgb(40, 46, 44);
+    font-size: 20px;
+}
+
+.p:last-child{
+    color: rgb(174, 161, 185);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
